@@ -6,7 +6,7 @@
 * ✅ User Login authentication
 * ✅ Session-based authentication (login/logout)
 * ✅ Protected profile page
-* ✅ PostgreSQL database integration
+* ✅ MySQL database integration
 * ✅ Clean UI with Thymeleaf
 * ✅ MVC architecture (Controller → Service → Repository)
 
@@ -41,6 +41,6 @@ SpringBootRegLoginApp/
 
 
 **Jit Majumder**
-Java Full Stack Developer
+ Java Full Stack Developer
 
 
